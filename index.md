@@ -1,4 +1,6 @@
-## About me:
+# Stylianos Zachariou
+
+## About Me:
 
 ### Markdown
 
