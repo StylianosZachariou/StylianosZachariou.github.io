@@ -1,4 +1,6 @@
-[Github](https://github.com/StylianosZachariou)
+<h1 style="color:Tomato;">About Me:</h1>
+[**Github Profile**](https://github.com/StylianosZachariou)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
