@@ -1,5 +1,5 @@
 <h1 style="color:Tomato;">About Me:</h1>
-**[Github Profile](https://github.com/StylianosZachariou)
+[ **Github Profile** ](https://github.com/StylianosZachariou)
 
 ### Markdown
 
