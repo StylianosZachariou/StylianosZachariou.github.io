@@ -7,7 +7,7 @@ My technical skills include programming languages such as C++ and C#, as well as
 <h2 style="color:MediumSeaGreen;"> <b> Projects: </b> </h2>
 
 <hr>
-<h4 style="color:DodgerBlue;">Genetic Algorithm Playing Tetris</h4>
+<h3 style="color:Black;">Genetic Algorithm Playing Tetris</h3>
 
 <hr>
 
