@@ -7,7 +7,7 @@ My technical skills include programming languages such as C++ and C#, as well as
 <h2 style="color:MediumSeaGreen;"> <b> Projects: </b> </h2>
 
 <hr>
-<h4 style="color:Black;">Tetris AI</h4>
+<h4 style="color:Black;"> <b>Tetris AI </b> </h4>
 A genetic algorithm that learns to play Tetris. Implemented using C++ and the open GA framework.
 <hr>
 
