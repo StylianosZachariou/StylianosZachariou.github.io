@@ -7,6 +7,9 @@ My technical skills include programming languages such as C++ and C#, as well as
 <h2 style="color:MediumSeaGreen;"> <b> Projects: </b> </h2>
 
 <hr>
+<h3 style="color:Black;"> Physarum Slime Simulation </h3>
+Using GPGPU in C++, this application simulates particles following physarum polycephalum slime rules to move and interact with each other.
+<hr>
 <h3 style="color:Black;"> Tetris AI  </h3>
 A genetic algorithm that learns to play Tetris. Implemented using C++ and the open GA framework.
 <hr>
@@ -27,7 +30,4 @@ A 2.5D game able to run on both PC and PlayStation Vita. Programmed in C++ using
 <hr>
 <h3 style="color:Black;"> Path Finding Algorithms </h3>
 An application demonstrating the Lee and A* path finding algorithms. This project was made for the Data Structures and Algorithms module; implemented using the SFML library in C++.
-<hr>
-<h3 style="color:Black;"> Physarum Slime Simulation </h3>
-Using GPGPU in C++, this application simulates particles following physarum polycephalum slime rules to move and interact with each other.
 <hr>
