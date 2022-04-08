@@ -9,6 +9,11 @@ My technical skills include programming languages such as C++ and C#, as well as
 <hr>
 <h3 style="color:Black;"> Physarum Slime Simulation </h3>
 Using GPGPU in C++, this application simulates particles following physarum polycephalum slime rules to move and interact with each other.
+
+<img src="https://user-images.githubusercontent.com/59959821/162447996-9e8953b0-ac9d-444f-b3ec-f1b502d936bb.png" width="150">
+
+[View on Github](https://github.com/StylianosZachariou/Physarum-Slime-Simulation)
+
 <hr>
 <h3 style="color:Black;"> Tetris AI  </h3>
 A genetic algorithm that learns to play Tetris. Implemented using C++ and the open GA framework.
