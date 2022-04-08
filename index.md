@@ -1,3 +1,10 @@
+<style>
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+</style>
 <h2 style="color:MediumSeaGreen;"> <b> About Me: </b> </h2>
 
 A diligent 3rd year student, currently studying BSc (Hons) Computer Game Applications Development at Abertay University. Always looking for new opportunities to broaden my knowledge and expand my abilities. Eager to take on different challenges and solve any problem that may arise to produce outstanding results.
@@ -13,8 +20,7 @@ Using GPGPU in C++, this application simulates particles following physarum poly
 
 <img src="https://user-images.githubusercontent.com/59959821/162447996-9e8953b0-ac9d-444f-b3ec-f1b502d936bb.png" width="150">
 
-[View on Github](https://github.com/StylianosZachariou/Physarum-Slime-Simulation)
-
+<a href="https://github.com/StylianosZachariou/Physarum-Slime-Simulation">View on Github</a>
 <hr>
 <h3 style="color:Black;"> Tetris AI  </h3>
 A genetic algorithm that learns to play Tetris. Implemented using C++ and the open GA framework.
