@@ -11,7 +11,7 @@ My technical skills include programming languages such as C++ and C#, as well as
 Using GPGPU in C++, this application simulates particles following physarum polycephalum slime rules to move and interact with each other.
 
 
-<img src="https://user-images.githubusercontent.com/59959821/162447996-9e8953b0-ac9d-444f-b3ec-f1b502d936bb.png" width="150">
+<img src="https://media.giphy.com/media/zufgNQkdMt17etRdBm/giphy.gif" width="150">
 
 <a href="https://github.com/StylianosZachariou/Physarum-Slime-Simulation">View on Github</a>
 <hr>
