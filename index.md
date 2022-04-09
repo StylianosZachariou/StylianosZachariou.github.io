@@ -32,7 +32,7 @@ A 3D scene showcasing custom made shaders using the programmable pipeline. Made 
 <a href="https://github.com/StylianosZachariou/Fjord-Scene">View on Github</a>
 <hr>
 <h3 style="color:Black;"> 2.5D Game Inspired by Bubble Bobble </h3>
-A 2.5D game able to run on both PC and PlayStation Vita. Programmed in C++ using a proprietary framework and the box2D physics library.
+A 2.5D game programmed in C++ using a proprietary framework and the box2D physics library.
 <hr>
 <h3 style="color:Black;"> Dismemberment Game Mechanic </h3>
 A gameplay mechanic where the player can pop their head and arms off, control them and posess other characters. Created on the Unreal Engine using C++.
