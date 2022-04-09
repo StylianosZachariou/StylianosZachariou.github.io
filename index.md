@@ -17,6 +17,11 @@ Using GPGPU in C++, this application simulates particles following physarum poly
 <hr>
 <h3 style="color:Black;"> Tetris AI  </h3>
 A genetic algorithm that learns to play Tetris. Implemented using C++ and the open GA framework.
+
+
+<img src="https://media.giphy.com/media/iw5E6pXF8uBkNaoM7X/giphy.gif" width="600">
+
+<a href="https://github.com/StylianosZachariou/Tetris-AI">View on Github</a>
 <hr>
 <h3 style="color:Black;"> Fjord Scene  </h3>
 A 3D scene showcasing custom made shaders using the programmable pipeline. Made with C++ and DirectX11 (HLSL). 
