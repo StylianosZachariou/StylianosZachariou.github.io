@@ -24,7 +24,7 @@ A genetic algorithm that learns to play Tetris. Implemented using C++ and the op
 <a href="https://github.com/StylianosZachariou/Tetris-AI">View on Github</a>
 <hr>
 <h3 style="color:Black;"> Fjord Scene  </h3>
-A 3D scene showcasing custom made shaders using the programmable pipeline. Made with C++ and DirectX11 (HLSL).#
+A 3D scene showcasing custom made shaders using the programmable pipeline. Made with C++ and DirectX11 (HLSL).
 
 
 <img src = "https://media.giphy.com/media/xuqZSOmLoyeZRyzhST/giphy.gif" width ="600">
