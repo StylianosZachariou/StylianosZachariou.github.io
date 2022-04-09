@@ -31,14 +31,14 @@ A 3D scene showcasing custom made shaders using the programmable pipeline. Made 
 
 <a href="https://github.com/StylianosZachariou/Fjord-Scene">View on Github</a>
 <hr>
+<h3 style="color:Black;"> 2.5D Game Inspired by Bubble Bobble </h3>
+A 2.5D game able to run on both PC and PlayStation Vita. Programmed in C++ using a proprietary framework and the box2D physics library.
+<hr>
 <h3 style="color:Black;"> Dismemberment Game Mechanic </h3>
 A gameplay mechanic where the player can pop their head and arms off, control them and posess other characters. Created on the Unreal Engine using C++.
 <hr>
 <h3 style="color:Black;"> Multiplayer Top-Down Shooter </h3>
 A fast-paced top-down competitive shooter that can host up to 8-players. It includes a match-making server, a game server and a client application. Implemented using both UDP and TCP sockets in C++.
-<hr>
-<h3 style="color:Black;"> 2.5D Game Inspired by Bubble Bobble </h3>
-A 2.5D game able to run on both PC and PlayStation Vita. Programmed in C++ using a proprietary framework and the box2D physics library.
 <hr>
 <h3 style="color:Black;"> Path Finding Algorithms </h3>
 An application demonstrating the Lee and A* path finding algorithms. This project was made for the Data Structures and Algorithms module; implemented using the SFML library in C++.
