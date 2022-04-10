@@ -19,7 +19,7 @@ Using GPGPU in C++, this application simulates particles following physarum poly
 A genetic algorithm that learns to play Tetris. Implemented using C++ and the open GA framework.
 
 
-<img src="https://media.giphy.com/media/iw5E6pXF8uBkNaoM7X/giphy.gif" width="600">
+<center> <img src="https://media.giphy.com/media/iw5E6pXF8uBkNaoM7X/giphy.gif" width="600"> </center>
 
 <a href="https://github.com/StylianosZachariou/Tetris-AI">View on Github</a>
 <hr>
@@ -27,7 +27,7 @@ A genetic algorithm that learns to play Tetris. Implemented using C++ and the op
 A 3D scene showcasing custom made shaders using the programmable pipeline. Made with C++ and DirectX11 (HLSL).
 
 
-<img src = "https://media.giphy.com/media/xuqZSOmLoyeZRyzhST/giphy.gif" width ="600">
+<center> <img src = "https://media.giphy.com/media/xuqZSOmLoyeZRyzhST/giphy.gif" width ="600"> </center>
 
 <a href="https://github.com/StylianosZachariou/Fjord-Scene">View on Github</a>
 <hr>
@@ -35,7 +35,7 @@ A 3D scene showcasing custom made shaders using the programmable pipeline. Made 
 A 2.5D game programmed in C++ using a proprietary framework and the box2D physics library.
 
 
-<img src="https://media.giphy.com/media/6LFpLDGawHjzIqPmCr/giphy.gif" width="600">
+<center> <img src="https://media.giphy.com/media/6LFpLDGawHjzIqPmCr/giphy.gif" width="600"> </center>
 
 <a href="https://github.com/StylianosZachariou/2.5D-Game">View on Github</a>
 <hr>
@@ -43,7 +43,7 @@ A 2.5D game programmed in C++ using a proprietary framework and the box2D physic
 A gameplay mechanic where the player can pop their head and arms off, control them and posess other characters. Created on the Unreal Engine using C++.
 
 
-<img src="https://media.giphy.com/media/fP4hGOdKWQSsG6pxvz/giphy.gif" width="600">
+<center> <img src="https://media.giphy.com/media/fP4hGOdKWQSsG6pxvz/giphy.gif" width="600"> </center>
 
 <a href="https://github.com/StylianosZachariou/Dismemberment-Game-Mechanic">View on Github</a>
 <hr>
