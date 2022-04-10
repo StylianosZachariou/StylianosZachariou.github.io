@@ -49,6 +49,11 @@ A gameplay mechanic where the player can pop their head and arms off, control th
 <hr>
 <h3 style="color:Black;"> Multiplayer Top-Down Shooter </h3>
 A fast-paced top-down competitive shooter that can host up to 8-players. It includes a match-making server, a game server and a client application. Implemented using both UDP and TCP sockets in C++.
+
+
+<center> <img src="https://media.giphy.com/media/Zsc2GFCDQYaIqUtnim/giphy-downsized.gif" width="600"> </center> 
+
+<a href="https://github.com/StylianosZachariou/Multiplayer-Top-Down-Shooter">View on Github</a>
 <hr>
 <h3 style="color:Black;"> Path Finding Algorithms </h3>
 An application demonstrating the Lee and A* path finding algorithms. This project was made for the Data Structures and Algorithms module; implemented using the SFML library in C++.
