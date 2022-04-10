@@ -41,6 +41,11 @@ A 2.5D game programmed in C++ using a proprietary framework and the box2D physic
 <hr>
 <h3 style="color:Black;"> Dismemberment Game Mechanic </h3>
 A gameplay mechanic where the player can pop their head and arms off, control them and posess other characters. Created on the Unreal Engine using C++.
+
+
+<img src="https://media.giphy.com/media/fP4hGOdKWQSsG6pxvz/giphy.gif" width="600">
+
+<a href="https://github.com/StylianosZachariou/Dismemberment-Game-Mechanic">View on Github</a>
 <hr>
 <h3 style="color:Black;"> Multiplayer Top-Down Shooter </h3>
 A fast-paced top-down competitive shooter that can host up to 8-players. It includes a match-making server, a game server and a client application. Implemented using both UDP and TCP sockets in C++.
