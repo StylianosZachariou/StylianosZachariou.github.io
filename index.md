@@ -57,4 +57,9 @@ A fast-paced top-down competitive shooter that can host up to 8-players. It incl
 <hr>
 <h3 style="color:Black;"> Path Finding Algorithms </h3>
 An application demonstrating the Lee and A* path finding algorithms. This project was made for the Data Structures and Algorithms module; implemented using the SFML library in C++.
+
+
+<center> <img src="https://user-images.githubusercontent.com/59959821/162640429-050d404c-5e86-42cd-973a-5a2406a68a3e.png" width="400"> </center>
+
+<a href="https://github.com/StylianosZachariou/Path-Finding-Algorithms">View on Github</a>
 <hr>
