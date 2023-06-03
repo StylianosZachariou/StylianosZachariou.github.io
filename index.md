@@ -5,6 +5,7 @@ A diligent 4th year student, currently studying BSc (Hons) Computer Game Applica
 My technical skills include programming languages such as C++ and C#, as well as experience using both Unity and the Unreal engine. Additionally, shaders, graphics, gameplay and tools programming are also skills that I acquired both from my course and individual research.
 
 Email: stylianos0509@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/stylianos-zachariou-19b2311b4
 
 <h2 style="color:MediumSeaGreen;"> <b> Projects: </b> </h2>
