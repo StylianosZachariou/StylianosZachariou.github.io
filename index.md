@@ -11,6 +11,12 @@ LinkedIn: https://www.linkedin.com/in/stylianos-zachariou-19b2311b4
 <h2 style="color:MediumSeaGreen;"> <b> Projects: </b> </h2>
 
 <hr>
+<h3 style="color:Black;"> Procedurally Generated, Environmentally Responsive Trees, in Real-Time. </h3>
+As my honours project, I chose to explore the possibility of adding evolving trees that are also affected by their surrounding environment, in commercial games. Two algorithms were compared for their suitability for the task, using quantitative and qualitative measures. Both achieved a low performance effect and high visual appeal, making the choice of algorithm a stylistic one.
+
+<a href="https://github.com/StylianosZachariou/HonoursProject">View on Github</a>
+
+<hr>
 <h3 style="color:Black;"> Physarum Slime Simulation </h3>
 Using GPGPU in C++, this application simulates particles following physarum polycephalum slime rules to move and interact with each other.
 
@@ -18,6 +24,7 @@ Using GPGPU in C++, this application simulates particles following physarum poly
 <center> <img src="https://media.giphy.com/media/zufgNQkdMt17etRdBm/giphy.gif" width="600"> </center>
 
 <a href="https://github.com/StylianosZachariou/Physarum-Slime-Simulation">View on Github</a>
+
 <hr>
 <h3 style="color:Black;"> Tetris AI  </h3>
 A genetic algorithm that learns to play Tetris. Implemented using C++ and the open GA framework.
