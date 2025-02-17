@@ -6,7 +6,6 @@ Email: stylianos0509@gmail.com
 
 <h2 style="color:MediumSeaGreen;"> <b> Projects: </b> </h2>
 
-<hr>
 <h3 style="color:Black;"> Procedurally Generated, Environmentally Responsive Trees, in Real-Time. </h3>
 As my honours project, I chose to explore the possibility of adding evolving trees that are also affected by their surrounding environment, in commercial games. Two algorithms were compared for their suitability for the task, using quantitative and qualitative measures. Both achieved a low performance effect and high visual appeal, making the choice of algorithm a stylistic one.
 
