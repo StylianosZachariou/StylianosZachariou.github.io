@@ -1,21 +1,21 @@
 <head>
   <link rel="stylesheet" href="./layout.css" type="text/css">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <div class="topnav" id="myTopnav">
+    <a href="#Home" class="active">Home</a>
+    <a href="#Projects">Projects</a>
+    <a href="#about">Experience</a>
+    <a href="#about">Education</a>
+    <a href="#contact">Contact</a>
+    <a href="javascript:void(0);" class="icon" onclick="resizeBurger()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
 </head>
 
 <body>
-<!-- Load an icon library to show a hamburger menu (bars) on small screens -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<div class="topnav" id="myTopnav">
-  <a href="#Home" class="active">Home</a>
-  <a href="#Projects">Projects</a>
-  <a href="#about">Experience</a>
-  <a href="#about">Education</a>
-  <a href="#contact">Contact</a>
-  <a href="javascript:void(0);" class="icon" onclick="resizeBurger()">
-    <i class="fa fa-bars"></i>
-  </a>
-</div>
 
 <h2 style="color:MediumSeaGreen;"> <b> About Me: </b> </h2>
 
