@@ -1,3 +1,17 @@
 theme: jekyll-theme-cayman
 title: Stylianos Zachariou
 description: Software Engineer
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
+
+navbar-links:
+  About Me: "index"
+  Projects: ""
+  Education: ""
+  Experience: ""
+
+social-network-links:
+  email: "stylianos0509@gmail.com"
+  linkein: "www.linkedin.com/in/szachariou"
